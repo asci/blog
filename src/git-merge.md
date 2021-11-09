@@ -1,10 +1,34 @@
 ---
+layout: main.njk
 title: How to quickly see what was merged in a timeframe (with CLI)
-date: "2021-11-07T22:12:03.284Z"
-description: "Small guide on how to speed up checking what was merged during some period of time"
 ---
 
+# How to quickly see what was merged in a timeframe (with CLI)
+
 For that you'll need to use Github CLI client. First you need to authorize it.
+
+```ts
+const fruits = ["apple", "banana", "cherry", "orange"] as const;
+type Fruit = typeof fruits[number];
+
+const myFruit: Fruit = "cherry";
+
+function isFruit(some: unknown): some is Fruit {
+  return fruits.includes(some as any);
+}
+```
+
+Ololo pish push
+
+```js
+(() => {
+  const root = document.querySelector(":root");
+  root.style.setProperty("--scroll-y", window.scrollY);
+  document.addEventListener("scroll", () => {
+    root.style.setProperty("--scroll-y", window.scrollY);
+  });
+})();
+```
 
 This will fetch all merged PRs from Github:
 

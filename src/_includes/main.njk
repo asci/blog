@@ -1,0 +1,22 @@
+---
+title: My Rad Blog
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/water.css">
+    <link href="/assets/prism.css" rel="stylesheet" media="(prefers-color-scheme: light)">
+    <link href="/assets/prism-tomorrow.css" rel="stylesheet"  media="(prefers-color-scheme: dark)">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <a href="/">Home</a>
+    {{ content | safe }}
+    <my-copyright></my-copyright>
+    <script src="https://unpkg.com/@optoolco/tonic@13.3.6/dist/tonic.min.js"></script>
+    <script src="/assets/index.js"></script>
+  </body>
+</html>
