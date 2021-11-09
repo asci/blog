@@ -8,15 +8,20 @@ title: My Rad Blog
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/water.css">
-    <link href="/assets/prism.css" rel="stylesheet" media="(prefers-color-scheme: light)">
-    <link href="/assets/prism-tomorrow.css" rel="stylesheet"  media="(prefers-color-scheme: dark)">
+    {# <link href="/assets/prism.css" rel="stylesheet" media="(prefers-color-scheme: light)"> #}
+    {# <link href="/assets/prism-vsc-dark-plus.css" rel="stylesheet" media="(prefers-color-scheme: light)"> #}
+    <link href="https://unpkg.com/prism-themes@1.9.0/themes/prism-one-light.css" rel="stylesheet" media="(prefers-color-scheme: light)">
+    <link href="https://unpkg.com/prism-themes@1.9.0/themes/prism-one-dark.css" rel="stylesheet"  media="(prefers-color-scheme: dark)">
+    {# <link href="/assets/prism-tomorrow.css" rel="stylesheet"  media="(prefers-color-scheme: dark)"> #}
+    <style>
+      body {
+        padding: 10px;
+      }
+    </style>
     <title>{{ title }}</title>
   </head>
   <body>
     <a href="/">Home</a>
     {{ content | safe }}
-    <my-copyright></my-copyright>
-    <script src="https://unpkg.com/@optoolco/tonic@13.3.6/dist/tonic.min.js"></script>
-    <script src="/assets/index.js"></script>
   </body>
 </html>

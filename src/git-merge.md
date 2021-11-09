@@ -5,38 +5,17 @@ title: How to quickly see what was merged in a timeframe (with CLI)
 
 # How to quickly see what was merged in a timeframe (with CLI)
 
-For that you'll need to use Github CLI client. First you need to authorize it.
+Let's say you see some change in chart of your app performance on specific date, and want to know what might be the cause. You can go to Github and check manually merged pull requests sorted by date but you can also speed it up by simple script.
 
-```ts
-const fruits = ["apple", "banana", "cherry", "orange"] as const;
-type Fruit = typeof fruits[number];
+For that you'll need to use [Github CLI](https://cli.github.com/) client. Install it with your favorite package manager and then autorize by running `gh auth login`
 
-const myFruit: Fruit = "cherry";
-
-function isFruit(some: unknown): some is Fruit {
-  return fruits.includes(some as any);
-}
-```
-
-Ololo pish push
-
-```js
-(() => {
-  const root = document.querySelector(":root");
-  root.style.setProperty("--scroll-y", window.scrollY);
-  document.addEventListener("scroll", () => {
-    root.style.setProperty("--scroll-y", window.scrollY);
-  });
-})();
-```
-
-This will fetch all merged PRs from Github:
+After this go to the folder with repo with you want to check for merges. Then run following command to fetch all merged pull requests in JSON format:
 
 ```bash
 gh pr list --state merged --json mergedAt,title,url --limit 100 >> prs.json
 ```
 
-This will select from fetched JSON only records within timeframe
+It will create `prs.json` file that we will use to filter using `jq`. To do so run the following command replacing dates with the timeframe you're looking for:
 
 ```bash
 jq --arg s '2021-10-15' --arg e '2021-10-19' '
@@ -48,4 +27,6 @@ jq --arg s '2021-10-15' --arg e '2021-10-19' '
 ' prs.json
 ```
 
-Found here: [https://stackoverflow.com/questions/40210276/how-to-select-a-date-range-from-a-json-string-by-using-jq](https://stackoverflow.com/questions/40210276/how-to-select-a-date-range-from-a-json-string-by-using-jq)
+<small>
+Source: <a href="https://stackoverflow.com/questions/40210276/how-to-select-a-date-range-from-a-json-string-by-using-jq">Stackoverflow</a>
+</small>
