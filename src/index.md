@@ -7,11 +7,11 @@ title: Home page
 
 Hi, I am Artem, a UI developer interested in design systems, product development and automations. I prefer working with React and Typescript, but also like to learn about new languages and frameworks.
 
-I work in Lemonade Inc, an american insurance company as a Senior Frontend Engineer focusing on perfomance and user experience.
+I work as a Senior Frontend Engineer at [Lemonade](https://makers.lemonade.com/), an american insurance company. I focus on perfomance and user experience. Before that I was working at [Framer](https://www.framer.com/) prototyping tool for designers
 
 For the past 7 years I live in Amsterdam, The Netherlands, but originally from Ukraine.
 
-You can contact me on [Twitter](https://twitter.com/asci_en) and on [Linkedin](https://www.linkedin.com/in/artem-riasnianskyi-90b99830/)
+You can contact me on [Twitter](https://twitter.com/asci_en) or on [Linkedin](https://www.linkedin.com/in/artem-riasnianskyi-90b99830/)
 
 # Notes
 
@@ -25,6 +25,6 @@ You can contact me on [Twitter](https://twitter.com/asci_en) and on [Linkedin](h
 
 ## [Ranok — coffee app](https://ranok-web.netlify.app/)
 
-Little web application with timers and ratio calculations for brewing filter coffee at home. Also available on the [AppStore](https://apps.apple.com/us/app/ranok-coffee-guides-timers/id1512795256?ls=1)
+Little web application with guides, ratio calculator and timers for brewing filter coffee at home.
 
 <small>9 November 2021</small>
