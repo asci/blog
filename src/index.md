@@ -23,6 +23,8 @@ You can contact me on [Twitter](https://twitter.com/asci_en) and on [Linkedin](h
 
 # Projects
 
-## [Coffee app Ranok](https://ranok-web.netlify.app/)
+## [Ranok — coffee app](https://ranok-web.netlify.app/)
+
+Little web application with timers and ratio calculations for brewing filter coffee at home. Also available on the [AppStore](https://apps.apple.com/us/app/ranok-coffee-guides-timers/id1512795256?ls=1)
 
 <small>9 November 2021</small>
