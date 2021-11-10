@@ -31,4 +31,4 @@ jq --arg s '2021-10-15' --arg e '2021-10-19' '
 Source: <a href="https://stackoverflow.com/questions/40210276/how-to-select-a-date-range-from-a-json-string-by-using-jq">Stackoverflow</a>
 </small>
 
-<a href="javascript:history.back()">Go Back</a>
+<a href="/">Back Home</a>

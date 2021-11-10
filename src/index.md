@@ -18,3 +18,11 @@ You can contact me on [Twitter](https://twitter.com/asci_en) and on [Linkedin](h
 ## [How to quickly see what was merged in a timeframe (with CLI)](./notes/git-merge)
 
 <small>9 November 2021</small>
+
+---
+
+# Projects
+
+## [Coffee app Ranok](https://ranok-web.netlify.app/)
+
+<small>9 November 2021</small>
