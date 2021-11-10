@@ -15,7 +15,7 @@ After this go to the folder with repo with you want to check for merges. Then ru
 gh pr list --state merged --json mergedAt,title,url --limit 100 >> prs.json
 ```
 
-It will create `prs.json` file that we will use to filter using `jq`. To do so run the following command replacing dates with the timeframe you're looking for:
+It will create `prs.json` file that we will use to filter using `jq`. If you don't have it installed find how to install it on [this page](https://stedolan.github.io/jq/download/) To do so run the following command replacing dates with the timeframe you're looking for:
 
 ```bash
 jq --arg s '2021-10-15' --arg e '2021-10-19' '
@@ -30,3 +30,5 @@ jq --arg s '2021-10-15' --arg e '2021-10-19' '
 <small>
 Source: <a href="https://stackoverflow.com/questions/40210276/how-to-select-a-date-range-from-a-json-string-by-using-jq">Stackoverflow</a>
 </small>
+
+<a href="javascript:history.back()">Go Back</a>
