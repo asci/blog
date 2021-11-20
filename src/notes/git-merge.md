@@ -3,6 +3,8 @@ layout: main.njk
 title: How to quickly see what was merged in a timeframe (with CLI)
 ---
 
+<a href="/">Back Home</a>
+
 # How to quickly see what was merged in a timeframe (with CLI)
 
 Let's say you see some change in chart of your app performance on specific date, and want to know what might be the cause. You can go to Github and check manually merged pull requests sorted by date but you can also speed it up by simple script.
@@ -30,5 +32,3 @@ jq --arg s '2021-10-15' --arg e '2021-10-19' '
 <small>
 Source: <a href="https://stackoverflow.com/questions/40210276/how-to-select-a-date-range-from-a-json-string-by-using-jq">Stackoverflow</a>
 </small>
-
-<a href="/">Back Home</a>
