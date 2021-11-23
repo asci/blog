@@ -1,6 +1,6 @@
 ---
 layout: main.njk
-title: Home page
+title: Artem R.
 ---
 
 <section>
