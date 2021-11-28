@@ -6,15 +6,15 @@ title: Artem R.
 <section>
   <h1>Intro</h1>
   <p>
-    Hi, I am Artem, a UI developer interested in design systems, product development and automations. I prefer working with React and Typescript, but also like to learn about new languages and frameworks.
+    Hi, I am Artem, a UI developer interested in design systems, products and automations. I prefer to work with React and Typescript.
   </p>
 
   <p>
-    I work as a Senior Frontend Engineer at <a href="https://makers.lemonade.com/"  target="_blank">Lemonade</a>, an american insurance company. I focus on perfomance and user experience. Before that I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> prototyping tool for designers
+    I work as a Senior Frontend Engineer at <a href="https://makers.lemonade.com/"  target="_blank">Lemonade</a>, where I focus on perfomance and user experience. Before that I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> prototyping tool for designers. And in the past I was working at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
   </p>
 
   <p>
-    For the past 7 years I live in Amsterdam, The Netherlands, but originally from Ukraine.
+    Since 2015 I live in Amsterdam, The Netherlands, but originally from Ukraine.
   </p>
 
   <p>
