@@ -3,7 +3,7 @@ layout: main.njk
 title: How to quickly see what was merged in a timeframe (with CLI)
 ---
 
-<a href="/">Back Home</a>
+<a href="/">← Back Home</a>
 
 # How to quickly see what was merged in a timeframe (with CLI)
 
