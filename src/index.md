@@ -3,7 +3,7 @@ layout: main.njk
 title: Artem R.
 ---
 
-<section>
+<section class="pane">
   <h1>Intro</h1>
   <p>
     Hi, I am Artem, a UI developer interested in design systems, products and automations. I prefer to work with React and Typescript.
