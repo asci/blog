@@ -24,18 +24,14 @@ title: Artem R.
 
 <section>
   <h1>Notes</h1>
-  <article>
-    <h2>
-      <a href="./notes/use-case-for-css-has-selector">Use case for :has() CSS selector</a>
-    </h2>
-    <small>2 January 2022</small>
-  </article>
-  <article>
-    <h2>
-      <a href="./notes/git-merge">How to quickly see what was merged in a timeframe (with CLI)</a>
-    </h2>
-    <small>9 November 2021</small>
-  </article>
+  {%- for post in collections.posts reversed -%}
+    <article>
+      <h2>
+        <a href="{{ post.url}}">{{ post.data.title }}</a>
+      </h2>
+      <small>{{ post.data.pubDate }}</small>
+    </article>
+  {%- endfor -%}
 </section>
 <section>
   <h1>Projects</h1>
@@ -45,5 +41,4 @@ title: Artem R.
   <p>
   Little web application with guides, ratio calculator and timers for brewing filter coffee at home.
   </p>
-  <small>9 November 2021</small>
 <section>

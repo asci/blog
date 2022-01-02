@@ -1,5 +1,7 @@
 ---
 layout: main.njk
+tags: posts
+pubDate: 9 November, 2021
 title: How to quickly see what was merged in a timeframe (with CLI)
 ---
 

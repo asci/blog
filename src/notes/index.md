@@ -7,8 +7,13 @@ title: Notes
 
 # Notes
 
-## [How to quickly see what was merged in a timeframe (with CLI)](./git-merge)
-
-<small>9 November 2021</small>
-
----
+<div>
+{%- for post in collections.posts reversed -%}
+  <article>
+    <h2>
+      <a href="{{ post.url}}">{{ post.data.title }}</a>
+    </h2>
+    <small>{{ post.data.pubDate }}</small>
+  </article>
+{%- endfor -%}
+</div>
