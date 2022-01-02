@@ -10,7 +10,7 @@ title: Artem R.
   </p>
 
   <p>
-    I work as a Senior Frontend Engineer at <a href="https://makers.lemonade.com/"  target="_blank">Lemonade</a>, where I focus on perfomance and user experience. Before that I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> prototyping tool for designers. And in the past I was working at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
+    Recentry I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> prototyping tool for designers. Also I was working at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
   </p>
 
   <p>
@@ -24,10 +24,18 @@ title: Artem R.
 
 <section>
   <h1>Notes</h1>
-  <h2>
-    <a href="./notes/git-merge">How to quickly see what was merged in a timeframe (with CLI)</a>
-  </h2>
-  <small>9 November 2021</small>
+  <article>
+    <h2>
+      <a href="./notes/use-case-for-css-has-selector">Use case for :has() CSS selector</a>
+    </h2>
+    <small>2 January 2022</small>
+  </article>
+  <article>
+    <h2>
+      <a href="./notes/git-merge">How to quickly see what was merged in a timeframe (with CLI)</a>
+    </h2>
+    <small>9 November 2021</small>
+  </article>
 </section>
 <section>
   <h1>Projects</h1>
