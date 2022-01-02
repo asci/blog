@@ -10,7 +10,7 @@ title: Artem R.
   </p>
 
   <p>
-    Recently I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> — startup company that builds prototyping and designing tool with same namd. In the past I worked at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
+    Recently I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> — startup company that builds prototyping and designing tool with same name. In the past I worked at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
   </p>
 
   <p>
