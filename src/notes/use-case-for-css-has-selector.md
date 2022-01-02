@@ -9,7 +9,7 @@ title: Use case for :has() CSS selector
 
 To highlight internal interactive elements of some bigger interactive element. For example post card that opens post, but button on that card will add post to favorites.
 
-![](/assets/images/use-case-example.gif)
+<img width="565" height="106" src="/assets/images/use-case-example.gif">
 
 Previously for this was either using javascript or more complex layout trick with sibling layer overlaying bigger element.
 
