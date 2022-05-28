@@ -2,6 +2,7 @@
 layout: main.njk
 tags: posts
 pubDate: 2 January, 2022
+date: 2022-01-02
 title: Use case for :has() CSS selector
 ---
 

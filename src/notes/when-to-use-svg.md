@@ -2,6 +2,7 @@
 layout: main.njk
 tags: posts
 pubDate: 15 February, 2022
+date: 2022-02-15
 title: When to use SVG
 ---
 

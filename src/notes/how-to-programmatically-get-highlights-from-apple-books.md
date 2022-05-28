@@ -2,6 +2,7 @@
 layout: main.njk
 tags: posts
 pubDate: 20 February, 2022
+date: 2022-02-20
 title: How to programmatically get highlights from Apple Books
 ---
 
