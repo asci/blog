@@ -85,3 +85,10 @@ section.pane *:last-child {
     opacity: 1;
   }
 }
+
+svg rect.label-container {
+  stroke: var(--text-muted) !important;
+}
+svg path.arrowheadPath {
+  fill: var(--text) !important;
+}
