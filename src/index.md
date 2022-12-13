@@ -42,9 +42,73 @@ title: Artem R.
   Web based RSS reader, focused on privacy and respect of user's time.
   </p>
   <h2>
-    <a href="https://ranok-web.netlify.app/" target="_blank">Ranok — coffee app</a>
+    <a href="https://ranok.app/" target="_blank">Ranok — coffee app</a>
   </h2>
   <p>
   Little web application with guides, ratio calculator and timers for brewing filter coffee at home.
   </p>
+<section>
+
+<section>
+  <h1>Bookshelf</h1>
+  <div class="book">
+    <div class="left">
+      <img src="/assets/images/book-ddia.jpg" width="125" height="auto" />
+    </div>
+    <div class="right">
+      <h2>
+        <a href="https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-K70CZ" target="_blank">
+          Designing Data Intensive Applications
+        </a>
+      </h2>
+      <p>
+        Good overview on how to build reliable and scalable systems. A lot of insights about distributed systems, databases and data processing.
+      </p>
+    </div>
+  </div>
+  <div class="book">
+    <div class="left">
+      <img src="/assets/images/book-tpb.jpg" width="125" height="auto" class="border" />
+    </div>
+    <div class="right">
+    <h2>
+    <a href="https://oku.club/book/the-programmers-brain-by-felienne-hermans-ix9T5" target="_blank">
+      The Programmer's Brain
+    </a>
+    </h2>
+    <p>
+      This book explains how we read, write and think about code from brain perspective. Bunch of useful practical methods to improve core coding skills.
+    </p>
+  </div>
+  </div>
+  <div class="book">
+    <div class="left">
+      <img src="/assets/images/book-et.jpg" width="125" height="auto" />
+    </div>
+    <div class="right">
+    <h2>
+    <a href="https://oku.club/book/effective-typescript-by-dan-vanderkam-FtAZz" target="_blank">
+      Effective TypeScript
+    </a>
+    </h2>
+    <p>
+      A lot of useful tips and tricks for writing better TypeScript code. Especially useful for migration projects from legacy JS codebase.
+    </p>
+  </div>
+  </div>
+  <div class="book">
+    <div class="left">
+      <img src="/assets/images/book-pm.jpg" width="125" height="auto" />
+    </div>
+    <div class="right">
+    <h2>
+    <a href="https://www.goodreads.com/book/show/30014110-practical-monitoring" target="_blank">
+      Practical Monitoring
+    </a>
+    </h2>
+    <p>
+      Good and abstract introduction into monitoring and observability. Ideas around how to build reliable systems and how to monitor them.
+    </p>
+  </div>
+  </div>
 <section>
