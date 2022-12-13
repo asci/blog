@@ -99,6 +99,15 @@ section.pane *:last-child {
   border: 1px solid #eee;
 }
 
+@media (prefers-color-scheme: dark) {
+  .book > .left > img {
+    box-shadow: 5px 5px 10px transparent;
+  }
+  .book > .left > img.border {
+    border: 1px solid transparent;
+  }
+}
+
 .book > .left {
   width: 125px;
 }
