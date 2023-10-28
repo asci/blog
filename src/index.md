@@ -6,11 +6,11 @@ title: Artem R.
 <section class="pane">
   <h1>Intro</h1>
   <p>
-    Hi, my name is Artem. I'm a software engineer with focus on web and frontend. I'm interested in design systems, products design and automations. I usually work with React and Typescript.
+    Hi, my name is Artem. I'm a software engineer with focus on web and frontend. I'm interested in design systems, product design and automations. I usually work with React and Typescript.
   </p>
 
   <p>
-    Currently I work at Meta. Recently I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> — startup company that builds prototyping and designing tool with same name. In the past I worked at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
+    Currently I work at Meta. Recently I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> — a startup company that builds prototyping and designing tool with same name. In the past I worked at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
   </p>
 
   <p>
