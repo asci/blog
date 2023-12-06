@@ -42,10 +42,10 @@ title: Artem R.
   Web based RSS reader, focused on privacy and respect of user's time.
   </p>
   <h2>
-    <a href="https://ranok.app/" target="_blank">Ranok — coffee app</a>
+    <a href="https://apps.apple.com/nl/app/ranok-coffee-guides-timers/id1512795256?l=en-GB" target="_blank">Ranok — coffee app</a>
   </h2>
   <p>
-  Little web application with guides, ratio calculator and timers for brewing filter coffee at home.
+  Little iOS application with guides, ratio calculator and timers for brewing filter coffee at home.
   </p>
 <section>
 
