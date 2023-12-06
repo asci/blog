@@ -47,6 +47,12 @@ title: Artem R.
   <p>
   Little iOS application with guides, ratio calculator and timers for brewing filter coffee at home.
   </p>
+  <h2>
+    <a href="https://apps.apple.com/nl/app/blueset-pomodoro-timer/id6471576781?l=en-GB" target="_blank">Blueset — pomodoro timer</a>
+  </h2>
+  <p>
+  Pomodoro timer for iOS with focus on simplicity and privacy.
+  </p>
 <section>
 
 <section>
