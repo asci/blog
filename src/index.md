@@ -18,7 +18,7 @@ title: Artem R.
   </p>
 
   <p>
-    You can contact me on <a rel="me" href="https://indieweb.social/@asci">Mastodon</a> or on <a rel="me" href="https://www.linkedin.com/in/artem-riasnianskyi-90b99830/">Linkedin</a>
+    You can contact me on <a rel="me" href="https://indieweb.social/@asci">Mastodon</a> or on <a rel="me" href="https://www.linkedin.com/in/artem-r-90b99830/">Linkedin</a>
   </p>
 </section>
 
