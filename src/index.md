@@ -8,17 +8,8 @@ title: Artem R.
   <p>
     Hi, my name is Artem. I'm a software engineer with focus on web and frontend. I'm interested in design systems, product design and automations. I usually work with React and Typescript.
   </p>
-
   <p>
-    Currently I work at Meta. Recently I was working at <a href="https://www.framer.com/" target="_blank">Framer</a> — a startup company that builds prototyping and designing tool with same name. In the past I worked at <a href="https://yandex.com/company/" target="_blank">Yandex</a> office in Kyiv.
-  </p>
-
-  <p>
-    Since 2015 I live in Amsterdam, The Netherlands, but originally from Ukraine.
-  </p>
-
-  <p>
-    You can contact me on <a rel="me" href="https://indieweb.social/@asci">Mastodon</a> or on <a rel="me" href="https://www.linkedin.com/in/artem-r-90b99830/">Linkedin</a>
+    You can contact me on <a rel="me" href="https://indieweb.social/@asci">Mastodon</a>
   </p>
 </section>
 
