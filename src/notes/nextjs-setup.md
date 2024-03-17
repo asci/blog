@@ -38,9 +38,9 @@ Let's check flow from a data/backend perspective:
 
 <picture>
   <source 
-    srcset="/assets/images/backend-dark.png" 
+    srcset="/assets/images/backend-dark.webp" 
     media="(prefers-color-scheme: dark)">
-  <img src="/assets/images/backend-light.png">
+  <img src="/assets/images/backend-light.webp">
 </picture>
 
 With clear boundaries, I can change underlaying technologies with less friction. Not only NextJS, but also DB (currently I use [Supabase](https://supabase.com/)) because all communication with DB is limited to `models`. And I can even add new clients, like mobile apps.
@@ -49,9 +49,9 @@ From frontend side it is a similar situation:
 
 <picture>
   <source 
-    srcset="/assets/images/frontend-dark.png" 
+    srcset="/assets/images/frontend-dark.webp" 
     media="(prefers-color-scheme: dark)">
-  <img src="/assets/images/frontend-light.png">
+  <img src="/assets/images/frontend-light.webp">
 </picture>
 
 Separating NextJS features (files for `Page`, `App` and `Document`) from the rest of the app.
