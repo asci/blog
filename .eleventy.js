@@ -6,6 +6,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPlugin(pluginRss);
 
+  // Pass through the built React app files
+  eleventyConfig.addPassthroughCopy({ "src/apps/calc/dist": "apps/calc" });
+
   return {
     dir: {
       input: "src",
