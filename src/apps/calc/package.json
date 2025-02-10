@@ -2,13 +2,12 @@
   "name": "calc",
   "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "dev": "mkdir -p dist && cp ./index.html dist/ && esbuild src/index.jsx --bundle --outfile=dist/bundle.js --loader:.css=css --watch",
+    "build": "mkdir -p dist && cp ./index.html dist/ && esbuild src/index.jsx --bundle --minify --outfile=dist/bundle.js --loader:.css=css"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "version": "1.0.0",
   "main": "vite.config.js",
@@ -17,7 +16,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^6.1.0"
+    "esbuild": "^0.14.54"
   }
 }
