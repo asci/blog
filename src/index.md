@@ -27,22 +27,22 @@ title: Artem R.
 <section>
   <h1>Projects</h1>
   <h2>
+    <a href="https://znovu.app/" target="_blank">Znovu — habits tracker</a>
+  </h2>
+  <p>
+  Mobile first PWA for tracking daily habit with gamification, focused on privacy.
+  </p>
+  <h2>
     <a href="https://visti.app/" target="_blank">Visti — RSS reader</a>
   </h2>
   <p>
   Web based RSS reader, focused on privacy and respect of user's time.
   </p>
   <h2>
-    <a href="https://apps.apple.com/nl/app/ranok-coffee-guides-timers/id1512795256?l=en-GB" target="_blank">Ranok — coffee app</a>
+    <a href="https://ranok.app" target="_blank">Ranok — coffee app</a>
   </h2>
   <p>
-  Little iOS application with guides, ratio calculator and timers for brewing filter coffee at home.
-  </p>
-  <h2>
-    <a href="https://apps.apple.com/nl/app/blueset-pomodoro-timer/id6471576781?l=en-GB" target="_blank">Blueset — pomodoro timer</a>
-  </h2>
-  <p>
-  Pomodoro timer for iOS with focus on simplicity and privacy.
+  Mobile first PWA with guides, ratio calculator and timers for brewing filter coffee at home.
   </p>
 <section>
 
