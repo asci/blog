@@ -33,16 +33,16 @@ title: Artem R.
   Mobile first PWA for tracking daily habit with gamification, focused on privacy.
   </p>
   <h2>
-    <a href="https://visti.app/" target="_blank">Visti — RSS reader</a>
-  </h2>
-  <p>
-  Web based RSS reader, focused on privacy and respect of user's time.
-  </p>
-  <h2>
     <a href="https://ranok.app" target="_blank">Ranok — coffee app</a>
   </h2>
   <p>
   Mobile first PWA with guides, ratio calculator and timers for brewing filter coffee at home.
+  </p>
+  <h2>
+    Visti — RSS reader (decommissioned)
+  </h2>
+  <p>
+  Web based RSS reader, focused on privacy and respect of user's time.
   </p>
 <section>
 
@@ -62,21 +62,6 @@ title: Artem R.
         Good overview on how to build reliable and scalable systems. A lot of insights about distributed systems, databases and data processing.
       </p>
     </div>
-  </div>
-  <div class="book">
-    <div class="left">
-      <img src="/assets/images/book-tpb.jpg" width="125" height="auto" class="border" />
-    </div>
-    <div class="right">
-    <h2>
-    <a href="https://oku.club/book/the-programmers-brain-by-felienne-hermans-ix9T5" target="_blank">
-      The Programmer's Brain
-    </a>
-    </h2>
-    <p>
-      This book explains how we read, write and think about code from brain perspective. Bunch of useful practical methods to improve core coding skills.
-    </p>
-  </div>
   </div>
   <div class="book">
     <div class="left">
