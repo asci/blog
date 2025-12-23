@@ -6,7 +6,7 @@ title: Artem R.
 <section class="pane">
   <h1>Intro</h1>
   <p>
-    Hi, my name is Artem. I'm a software engineer with focus on web and frontend. I'm interested in design systems, product design and automations. I usually work with React and Typescript.
+    Hi, my name is Artem. I'm a software engineer with focus on web technologies. I'm interested in design systems, product design and automations. I usually work with React and Typescript.
   </p>
   <p>
     You can contact me on <a rel="me" href="https://indieweb.social/@asci">Mastodon</a>
@@ -27,21 +27,29 @@ title: Artem R.
 <section>
   <h1>Projects</h1>
   <h2>
-    <a href="https://znovu.app/" target="_blank">Znovu — habits tracker</a>
+    <a href="https://znovu.app/?ref=artm.dev" target="_blank">Znovu — habits tracker</a>
   </h2>
-  <p>
+  <p style="margin-bottom: 32px;">
   Mobile first PWA for tracking daily habit with gamification, focused on privacy.
   </p>
   <h2>
-    <a href="https://ranok.app" target="_blank">Ranok — coffee app</a>
+    <a href="https://ranok.app/?ref=artm.dev" target="_blank">Ranok — coffee app</a>
   </h2>
-  <p>
+  <p style="margin-bottom: 32px;">
   Mobile first PWA with guides, ratio calculator and timers for brewing filter coffee at home.
   </p>
+  
+  <h2>
+    <a href="https://codeberg.org/asci/open-likes?ref=artm.dev" target="_blank">open-likes</a>
+  </h2>
+  <p style="margin-bottom: 32px;">
+  Web Component for adding likes and other reactions to web pages
+  </p>
+  
   <h2>
     Visti — RSS reader (decommissioned)
   </h2>
-  <p>
+  <p style="margin-bottom: 32px;">
   Web based RSS reader, focused on privacy and respect of user's time.
   </p>
 <section>

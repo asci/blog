@@ -76,3 +76,7 @@ pages
 package.json
 
 ```
+
+<div style="width: 100%; text-align: center">
+  <open-likes icon="heart" color="#e91e1e" counter="bottom"></open-likes>
+</div>

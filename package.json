@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/asci/blog/issues"
   },
-  "homepage": "https://github.com/asci/blog#readme"
+  "homepage": "https://github.com/asci/blog#readme",
+  "dependencies": {
+    "open-likes": "^1.0.1"
+  }
 }

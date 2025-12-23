@@ -71,3 +71,7 @@ Second — show roles or actors. As mentioned above. It's important to show (or 
 </picture>
 
 Questions are a critical part of learning. If something is not clear, I immediately put a sticky note next to it with a question. I use yellow for questions. Later, when I continue to explore the system, I can find the answer to my question and just put a new sticky note (green one) next to the question with answer. Occasionally, I can't find a clear answer — then I try to find somebody more knowledgable in the area and setup a meeting to follow all remaining question stickies.
+
+<div style="width: 100%; text-align: center">
+  <open-likes icon="heart" color="#e91e1e" counter="bottom"></open-likes>
+</div>

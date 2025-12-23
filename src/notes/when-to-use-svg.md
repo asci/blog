@@ -15,3 +15,7 @@ SVG are great choose for UI elements like icons and graphic elements that will s
 The reason for this is performance of huge SVG elements might be not good — SVG adds a lot of complexity to the render pipeline and DOM structure.
 
 If you need to animate or alter parts of SVG, consider extracting only those parts and render them over PNG.
+
+<div style="width: 100%; text-align: center">
+  <open-likes icon="heart" color="#e91e1e" counter="bottom"></open-likes>
+</div>

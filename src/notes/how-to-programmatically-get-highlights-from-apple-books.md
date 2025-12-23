@@ -177,3 +177,7 @@ That’s it.
 You can find full script at [Github Gist](https://gist.github.com/asci/82ffbe53cf6b1933bb570b67006c88b4)
 
 Thanks for reading
+
+<div style="width: 100%; text-align: center">
+  <open-likes icon="heart" color="#e91e1e" counter="bottom"></open-likes>
+</div>

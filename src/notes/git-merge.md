@@ -35,3 +35,6 @@ jq --arg s '2021-10-15' --arg e '2021-10-19' '
 <small>
 Source: <a href="https://stackoverflow.com/questions/40210276/how-to-select-a-date-range-from-a-json-string-by-using-jq">Stackoverflow</a>
 </small>
+<div style="width: 100%; text-align: center">
+  <open-likes icon="heart" color="#e91e1e" counter="bottom"></open-likes>
+</div>

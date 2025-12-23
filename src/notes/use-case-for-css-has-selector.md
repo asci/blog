@@ -34,3 +34,7 @@ Here is how to do it with few lines of CSS
 Although click event handler still should be captured and stop propagation.
 
 Selector already available in Safari TP and should be added to Firefox and Chromium based browsers this year.
+
+<div style="width: 100%; text-align: center">
+  <open-likes icon="heart" color="#e91e1e" counter="bottom"></open-likes>
+</div>

@@ -14,7 +14,15 @@ title: Artem R.
     <link rel="stylesheet" href="/assets/nav.css">
     <link href="/assets/themes/prism-one-light.css" rel="stylesheet" media="(prefers-color-scheme: light)">
     <link href="/assets/themes/prism-one-dark.css" rel="stylesheet"  media="(prefers-color-scheme: dark)">
+    <script>
+      window.OPEN_LIKES_SUPABASE_URL = 'https://qwmkjfkdaomxlyinrveo.supabase.co';
+      window.OPEN_LIKES_SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF3bWtqZmtkYW9teGx5aW5ydmVvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ4MjYwNDQsImV4cCI6MjA3MDQwMjA0NH0.Owdrgh8xmKPN9nhAB7OZpmdajwrGYibj11u4mzjoXzw';
+    </script>
     <title>{{ title }}</title>
+    <script
+      type="module"
+      src="/scripts/open-likes.js"
+    ></script>
   </head>
   <body>
     {{ content | safe }}

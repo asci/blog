@@ -74,3 +74,7 @@ Once captured, images can be saved using the `chrome.downloads.download` functio
 ## Conclusion
 
 Client-side rasterization offers a cost-effective, user-specific alternative to server-side solutions. Each method discussed has its own strengths and ideal use cases, with Canvas and WebGL being suitable for most general purposes, and the Debugger Protocol excelling in scenarios requiring transparency.
+
+<div style="width: 100%; text-align: center">
+  <open-likes icon="heart" color="#e91e1e" counter="bottom"></open-likes>
+</div>
