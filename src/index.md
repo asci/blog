@@ -62,6 +62,9 @@ title: Artem R.
 
 <section>
   <h1>Bookshelf</h1>
+  <p style="margin-bottom: 32px;">
+  List of books that I find useful and recommend to read.
+  </p>
   <div class="book">
     <div class="left">
       <img src="/assets/images/book-ddia.jpg" width="125" height="auto" />
