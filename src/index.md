@@ -9,7 +9,7 @@ title: Artem R.
     Hi, my name is Artem. I'm a software engineer with focus on web technologies. I'm interested in design systems, product design and automations. I usually work with React and Typescript.
   </p>
   <p>
-    You can contact me on <a rel="me" href="https://mastoshare.link/r?account=https%3A%2F%2Findieweb.social%2F%40asci">Mastodon</a>
+    You can contact me on <a rel="me" href="https://mastoshare.link/r?account=https%3A%2F%2Findieweb.social%2F%40asci&fallbackInstance=indieweb.social">Mastodon</a>
   </p>
 </section>
 
